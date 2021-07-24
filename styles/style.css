@@ -218,7 +218,8 @@
   color: #2F80ED;
   text-align: end;
   display: block;
-  text-decoration: none;position: absolute;
+  text-decoration: none;
+  position: absolute;
   right: 0;
   top: 50%;
 }
