@@ -1,10 +1,87 @@
+@import url('../blocks/root/root.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__link/header__link.css');
+@import url('../blocks/header/__main-illustration/header__main-illustration.css');
+@import url('../blocks/header/__square-pic/header__square-pic.css');
+@import url('../blocks/rotation/rotation.css');
+@import url('../blocks/header/__subtitle/header__subtitle.css');
+@import url('../blocks/header/__title/header__title.css');
+@import url('../blocks/logo/_place/logo_place_header.css');
+@import url('../blocks/content/description/description.css');
+@import url('../blocks/content/description/two-columns/two-columns.css');
+@import url('../blocks/content/description/two-columns/__brief/two-columns__brief.css');
+@import url('../blocks/content/description/two-columns/__main-text/two-columns__main-text.css');
+@import url('../blocks/content/description/two-columns/__paragraph/two-columns__paragraph.css');
+@import url('../blocks/content/description/two-columns/__span-accent/two-columns__span-accent.css');
+@import url('../blocks/content/techniques/techniques.css');
+@import url('../blocks/content/techniques/cards/cards.css');
+@import url('../blocks/content/techniques/cards/__item/cards__item.css');
+@import url('../blocks/content/techniques/cards/__image/cards__image.css');
+@import url('../blocks/content/techniques/cards/__description/cards__description.css');
+@import url('../blocks/content/techniques/cards/__title/cards__title.css');
+@import url('../blocks/content/video/video.css');
+@import url('../blocks/content/video/__iframes/video__iframes.css');
+@import url('../blocks/content/video/__iframe/video__iframe.css');
+@import url('../blocks/content/oakley/oakley.css');
+@import url('../blocks/content/description/two-columns/_theme/two-columns_theme_gray.css');
+@import url('../blocks/content/digits/digits.css');
+@import url('../blocks/content/digits/table/table.css');
+@import url('../blocks/content/digits/table/__cell/table__cell.css');
+@import url('../blocks/content/digits/table/__heading/table__heading.css');
+@import url('../blocks/content/digits/table/__text/table__text.css');
+@import url('../blocks/content/digits/section-title/section-title.css');
+@import url('../blocks/content/digits/section-subtitle/section-subtitle.css');
+@import url('../blocks/content/feynman/feynman.css');
+@import url('../blocks/content/feynman/__title/feynman__title.css');
+@import url('../blocks/content/feynman/__subtitle/feynman__subtitle.css');
+@import url('../blocks/content/feynman/__link/feynman__link.css');
+@import url('../blocks/content/khan/khan.css');
+@import url('../blocks/content/khan/__author/khan__author.css');
+@import url('../blocks/content/khan/__book-container/khan__book-container.css');
+@import url('../blocks/content/khan/__book-pic/khan__book-pic.css');
+@import url('../blocks/content/khan/__buy-link/khan__buy-link.css');
+@import url('../blocks/content/khan/__container/khan__container.css');
+@import url('../blocks/content/khan/__quote/khan__quote.css');
+@import url('../blocks/content/khan/__quote-author/khan__quote-author.css');
+@import url('../blocks/content/khan/__quote-author-subline/khan__quote-author-subline.css');
+@import url('../blocks/content/khan/__title/khan__title.css');
+@import url('../blocks/content/kaufman/kaufman.css');
+@import url('../blocks/content/kaufman/__triangle/kaufman__triangle.css');
+@import url('../blocks/content/digits/section-title/_theme/section-title_theme_dark.css');
+@import url('../blocks/content/digits/section-subtitle/_theme/section-subtitle_theme_dark.css');
+@import url('../blocks/content/digits/table/_theme/table_theme_dark.css');
+@import url('../blocks/content/digits/table/__cell/_theme/table__cell_theme_dark.css');
+@import url('../blocks/content/digits/table/__heading/_theme/table__heading_theme_dark.css');
+@import url('../blocks/content/digits/table/__text/_theme/table__text_theme_dark.css');
+@import url('../blocks/content/resources/resources.css');
+@import url('../blocks/content/resources/__logo/resources__logo.css');
+@import url('../blocks/content/resources/__logo/_dezeen/resources_logo_dezeen.css');
+@import url('../blocks/content/resources/__logo/_goodreads/resources_logo_goodreads.css');
+@import url('../blocks/content/resources/__logo/_medium/resources_logo_medium.css');
+@import url('../blocks/content/resources/__logo/_ted-ed/resources_logo_ted-ed.css');
+@import url('../blocks/content/resources/__logo-zone/resources__logo-zone.css');
+@import url('../blocks/logo/_place/logo_place_footer.css');
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__columns/footer__columns.css');
+@import url('../blocks/footer/__author/footer__author.css');
+@import url('../blocks/footer/__columns/footer__columns.css');
+@import url('../blocks/footer/__column/_content_copyright/footer__column_content_copyright.css');
+@import url('../blocks/footer/__column-heading/footer__column-heading.css');
+@import url('../blocks/footer/__list/footer__list.css');
+@import url('../blocks/footer/__column-link/footer__column-link.css');
+@import url('../blocks/footer/__socia-icons/footer__socia-icons.css');
+
+
+
+/*
 .page {
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-
+*/
+/*
 .header {
   height: 100vh;
   min-height: 600px;
@@ -71,7 +148,9 @@
   right: 0;
   z-index: 1;
 }
+*/
 
+/*
 .description {
   display: flex;
   justify-content: center;
@@ -119,7 +198,9 @@
   font-size: 24px;
   font-weight: bold;
 }
+*/
 
+/*
 .digits {
   display: flex;
   flex-direction: column;
@@ -180,7 +261,9 @@
   margin-top: 20px;
   margin-bottom: 0;
 }
+*/
 
+/*
 .feynman {
   min-height: 790px;
   background-color: #F2F2F2;
@@ -225,9 +308,9 @@
   right: 48px;
   top: 50%;
 }
+*/
 
-
-
+/*
 .kaufman { 
   display: flex;
   flex-direction: column;
@@ -244,7 +327,10 @@
   top: 0;
   overflow: hidden;
 }
+*/
 
+
+/*
 .section-title_theme_dark {
   display: block;
   text-align: center;
@@ -305,8 +391,8 @@
   font-size: 18px;
   font-weight: normal;
 }
-
-
+*/
+/*
 .footer {
   background-color:  #1F1F1F;
   min-height: 350px;
@@ -341,12 +427,16 @@
   justify-content: space-between;
   align-content: flex-start;
 }
+*/
 
+/*
 .logo_place_footer {
   height: 35px;
   width: 183px;
 }
+*/
 
+/*
 .footer__column-heading {
   line-height: 30px;
   font-size: 18px;
@@ -376,3 +466,4 @@
   width: 16px;
   margin-right: 10px;
 }
+*/

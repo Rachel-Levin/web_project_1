@@ -1,0 +1,12 @@
+.header__link {
+  display: block;
+  color: #2F80ED;
+  text-decoration: none;
+  transition-property: color;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
+
+.header__link:hover {
+  color: black;
+}
