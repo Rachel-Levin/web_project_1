@@ -55,10 +55,10 @@
 @import url('../blocks/content/digits/table/__text/_theme/table__text_theme_dark.css');
 @import url('../blocks/content/resources/resources.css');
 @import url('../blocks/content/resources/__logo/resources__logo.css');
-@import url('../blocks/content/resources/__logo/_dezeen/resources_logo_dezeen.css');
-@import url('../blocks/content/resources/__logo/_goodreads/resources_logo_goodreads.css');
-@import url('../blocks/content/resources/__logo/_medium/resources_logo_medium.css');
-@import url('../blocks/content/resources/__logo/_ted-ed/resources_logo_ted-ed.css');
+@import url('../blocks/content/resources/__logo/_dezeen/resources__logo_dezeen.css');
+@import url('../blocks/content/resources/__logo/_goodreads/resources__logo_goodreads.css');
+@import url('../blocks/content/resources/__logo/_medium/resources__logo_medium.css');
+@import url('../blocks/content/resources/__logo/_ted-ed/resources__logo_ted-ed.css');
 @import url('../blocks/content/resources/__logo-zone/resources__logo-zone.css');
 @import url('../blocks/logo/_place/logo_place_footer.css');
 @import url('../blocks/footer/footer.css');
