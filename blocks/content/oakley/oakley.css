@@ -4,5 +4,7 @@
     flex-direction: row;
     align-content: flex-start;
     background-color: #F2F2F2;
-    margin-top: -60px;
+    padding-top: 160px;
 }
+
+/*margin-top: -60px;*/

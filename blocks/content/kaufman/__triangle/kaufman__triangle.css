@@ -4,5 +4,4 @@
   top: 0;
   overflow: hidden;
   transform: rotate(30deg);
-  animation: rotation linear 20s infinite;
 }

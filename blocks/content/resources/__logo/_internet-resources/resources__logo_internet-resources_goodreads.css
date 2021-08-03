@@ -1,3 +1,10 @@
 .resources__logo_internet-resources_goodreads {
     background-image: url(../../../../../images/logo/resources-goodreads.png);
+    transition-property: opacity;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+}
+
+.resources__logo_internet-resources_goodreads:hover {
+    opacity: 0.5;
 }
