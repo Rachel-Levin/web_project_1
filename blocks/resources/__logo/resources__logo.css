@@ -4,4 +4,11 @@
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    transition-property: opacity;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+}
+
+.resources__logo:hover {
+    opacity: 0.5;
 }
